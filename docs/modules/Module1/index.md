@@ -1,7 +1,6 @@
+---
 title: Module 1 - Tab Apps
-
 has_children: true
-
 ---
 
 ## Module 1 - Tab Apps
