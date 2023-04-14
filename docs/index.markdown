@@ -2,14 +2,22 @@
 
 In attending this LevelUp Workshop you will learn more about the following :
 
-- Understanding of DevSecOps, including vulnerabilities and best practices
-- Implementation of DevSecOps best practices for AKS
-- Understanding and Implementation of Features/Capabilities in Github and Azure to implement DevSecOps best practices for AKS
-- Newer features of Github and Azure to implement DevSecOps best practices for AKS, including Defender for DevOps, AKS add-ons, Defender for Containers, VS Code, etc.
+- Understanding of Microsoft Teams App Development
+- Building a Tab App using Javascript
+- Building a Bot App
+- Create apps in Microsoft Teams by using Power Apps
 
-## Diagram
+## Choose what suits you
 
-- ![AKS DevSecOps Architecture](assets/images/module0/aks-devsecops-architecture.png)
+You can build a Teams app as per your app's requirements. Based on factors, such as business needs, development environment, domain knowledge, select the environment and tools you want to build your app.
+
+A Teams app offers you the flexibility of choosing your build environment. It includes tools, framework, and languages to approach your app development.
+- ![choose tool](assets/images/module0/tools-of-your-choice.png)
+
+## Teams collaborative platform
+
+As a platform for building apps, Teams offers the full range of apps and toolkits. Teams platform supports you at every stage from planning your app to distributing it.
+![teams dev life cycle](assets/images/module0/teams-dev-life-cycle.png)
 
 ## Contributors
 
