@@ -1,9 +1,11 @@
 ---
 title: Tab App Using JavaScript
-parent: Module 1 - Tab App
+parent: Module 1 - Tab Apps
 has_children: false
 nav_order: 1
+
 ---
+
 # Module 1 - Tab App Using JavaScript
 
 In this tutorial, you learn:
